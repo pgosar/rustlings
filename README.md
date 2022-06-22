@@ -1,2 +1,1 @@
-# rustlings
-Learning Rust with Rustlings
+Going through the rustlings course to learn Rust
